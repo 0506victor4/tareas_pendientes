@@ -1,0 +1,11 @@
+Jupyter Notebook es una herramienta de código abierto que permite crear y compartir documentos interactivos.
+
+Combina código, texto, visualizaciones y ecuaciones matemáticas.
+
+Es muy utilizada en ciencia de datos, análisis de datos y aprendizaje automático.
+
+Permite escribir y ejecutar código en lenguajes como Python, R y Julia.
+
+Los resultados se muestran de forma inmediata, facilitando la experimentación.
+
+Es ideal para presentar resultados de manera visual.

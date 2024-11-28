@@ -1,0 +1,6 @@
+Algoritmo cumple
+    Definir nombre como caracter
+    Escribir "Cual es el nombre del cumpleañero : "
+    Leer nombre
+    Escribir "Feliz Cumpleaños, ",nombre
+FinAlgoritmo

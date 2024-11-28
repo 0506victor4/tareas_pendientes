@@ -1,0 +1,36 @@
+Las tablas de verdad son una herramienta en lógica proposicional que se utiliza para analizar y representar cómo cambian los valores de verdad de una proposición o expresión lógica dependiendo de los valores de sus componentes. Son especialmente útiles en el estudio de conectores lógicos como AND (∧), OR (∨), NOT (¬), entre otros.
+
+
+TABLAS DE VERDAD
+
+1. CONJUNCIÓN (A ∧ B)
+| A | B | A ∧ B |
+|---|---|-------|
+| V | V |   V   |
+| V | F |   F   |
+| F | V |   F   |
+| F | F |   F   |
+
+2. DISYUNCIÓN (A ∨ B)
+| A | B | A ∨ B |
+|---|---|-------|
+| V | V |   V   |
+| V | F |   V   |
+| F | V |   V   |
+| F | F |   F   |
+
+3. IMPLICACIÓN (A → B)
+| A | B | A → B |
+|---|---|-------|
+| V | V |   V   |
+| V | F |   F   |
+| F | V |   V   |
+| F | F |   V   |
+
+4. DOBLE IMPLICACIÓN (A ↔ B)
+| A | B | A ↔ B |
+|---|---|-------|
+| V | V |   V   |
+| V | F |   F   |
+| F | V |   F   |
+| F | F |   V   |
