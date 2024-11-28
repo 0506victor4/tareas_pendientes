@@ -1,0 +1,500 @@
+   28  touch pares.py
+   29  touch pares.c
+   30  make pares
+   31  make pares
+   32  make pares
+   33  ./pares
+   34  make pares
+   35  ./pares
+   36  cd
+   37  pwd
+   38  cd Programacion
+   39  cd C
+   40  touch pares.c
+   41  touch pares
+   42  ./pares
+   43  ./pares
+   44  cd
+   45  pwd
+   46  cd Programacion
+   47  cd C
+   48  make pares
+   49  ./pares
+   50  pwd
+   51  cd
+   52  pwd
+   53  cd Programacion
+   54  cd Python
+   55  make pares.py
+   56  make pares.py
+   57  cd
+   58  pwd
+   59  cd Programacion
+   60  cd Python
+   61  make pares.py
+   62  make pares
+   63  touch pares.py
+   64  pwd
+   65  cd Programacion
+   66  pwd
+   67  cd
+   68  pwd
+   69  cd Programacion
+   70  mkdir Fuctions
+   71  mkdir functions
+   72  cd fuctions
+   73  code meow.c
+   74  cd fuctions
+   75  pwd
+   76  pwd
+   77  cd
+   78  pwd
+   79  cd Programacion
+   80  cd fuctions
+   81  cd Fuctions
+   82  cd functions
+   83  cd meow
+   84  touch meow
+   85  make meow
+   86  make meow
+   87  ./meow
+   88  make meow
+   89  ./meow
+   90  make meow
+   91  ./meow
+   92  make meow
+   93  ./meow
+   94  make meow
+   95  make meow
+   96  ./meow
+   97  make meow
+   98  make meow
+   99  ./meow
+  100  make meow
+  101  make meow
+  102  make meow
+  103  ./meow
+  104  make meow
+  105  ./meow
+  106  make meow
+  107  ./meow
+  108  make meow
+  109  make meow
+  110  make meow
+  111  ./meow
+  112  make meow
+  113  ./meow
+  114  make  meow 
+  115  make meow
+  116  make meow
+  117  make meow
+  118  ./meow
+  119  make meow
+  120  make meow 
+  121  ./meow
+  122  make meow
+  123  make meow 
+  124  ./meow
+  125  make meow
+  126  ./meow
+  127  make meow 
+  128  ./meow
+  129  make meow
+  130  ./meow
+  131  make meow
+  132  ./meow
+  133  make meow
+  134  ./meow
+  135  make meow
+  136  ./meow
+  137  1000
+  138  make meow
+  139  ./ meow 
+  140  make meow
+  141  ./meow
+  142  touch meow.py
+  143  cd /workspaces/179767745/Programacion/functions
+  144  /usr/local/bin/python /workspaces/179767745/Programacion/functions/meow.py
+  145  make meow
+  146  ./meow
+  147  make meow
+  148  ./meow
+  149  make meow
+  150  ./meow
+  151  cd
+  152  pwd
+  153  cd Programacion
+  154  cd functions
+  155  5
+  156  5
+  157   /usr/bin/env /usr/local/bin/python /home/ubuntu/.vscode-remote/extensions/ms-python.debugpy-2024.12.0-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 35845 -- /workspaces/179767745/Programacion/functions/meow.py 
+  158  make meow 
+  159  ./meow
+  160  make meow
+  161  ./meow
+  162  make meow
+  163  ./meow
+  164  pwd
+  165  cd C
+  166  cd C
+  167  pwd
+  168  pwd 
+  169  cd Programacion
+  170  cd C
+  171  touch meow
+  172  pwd
+  173  mkdir playground; cd playground
+  174  touch modules.c
+  175  make modules
+  176  ./modules
+  177  make modules
+  178  ./modules
+  179  make modules
+  180  make modules
+  181  make modules
+  182  ./modules
+  183  make modules
+  184  make modules
+  185  ./modules
+  186  make modules
+  187  ./modules
+  188  make modules
+  189  make modules
+  190  make modules
+  191  ./modules
+  192  make modules
+  193  ./modules
+  194  make modules
+  195  make modules
+  196  ./modules
+  197  make modules
+  198  ./modules
+  199  make modules
+  200  make modules
+  201  ./modules
+  202  1
+  203  make modules
+  204  make modules
+  205  make modules
+  206  ./modules
+  207  make modules
+  208  make modules
+  209  make modules
+  210  make modules
+  211  ./modules
+  212  make codemario.c
+  213  code mario.c
+  214  touch mario.c
+  215  make mario.c
+  216  ./mario
+  217  make mario
+  218  ./mario
+  219  make mario
+  220  make mario
+  221  make mario
+  222  make mario
+  223  make mario
+  224  make mario
+  225  make mario
+  226  ./mario
+  227  make mario
+  228  ./
+  229  ./mario
+  230  make mario
+  231  make mario
+  232  make mario
+  233  ./mario
+  234  make mario
+  235  make mario
+  236  make mario
+  237  make mario
+  238  ./mario
+  239  25
+  240  make mario
+  241  make mario
+  242  make mario
+  243  ./mario
+  244  make mario
+  245  ./mario
+  246  make mario
+  247  make mario
+  248  make mario
+  249  ./mario
+  250  make mario
+  251  make mario
+  252  make mario
+  253  make mario
+  254  make mario
+  255  make mario
+  256  make mario
+  257  ./mario
+  258  make mario
+  259  ./mario
+  260  code examen.c
+  261  make exmane.c
+  262  make exame
+  263  make examen
+  264  make examen
+  265  make examen.c
+  266  make examen
+  267  make examen
+  268  make examen
+  269  ./n
+  270  ./ examen
+  271  ./examne
+  272  ./examen
+  273  pwd
+  274  cd
+  275  pwdpwd
+  276  mkdir examen
+  277  cd examen
+  278  code programa.c
+  279  make programa 
+  280  make programa 
+  281  ./programa 
+  282  make programa
+  283  make programa 
+  284  make programa 
+  285  make programa 
+  286  ./programa
+  287  make programa 
+  288  make programa 
+  289  make programa 
+  290  make programa 
+  291  ./programa 
+  292  make programa 
+  293  ./programa 
+  294  make programa 
+  295  ./programa 
+  296  make programa 
+  297  ./programa 
+  298  make programa 
+  299  ./programa 
+  300  make programa 
+  301  ./programa 
+  302  make programa 
+  303  ./programa 
+  304  make programa 
+  305  ./programa 
+  306  make programa 
+  307  ./programa 
+  308  make programa 
+  309  ./programa 
+  310  make programa 
+  311  ./programa 
+  312  make programa 
+  313  ./programa 
+  314  make programa 
+  315  ./programa 
+  316  pwd
+  317  cd
+  318  mkdir Examen
+  319  code cd
+  320  pwd
+  321  cd ..
+  322  pwd
+  323  mkdir repositorio
+  324  cd repositorio
+  325  code Examen
+  326  code examen.c
+  327  make examen 
+  328  make examen 
+  329  make examen 
+  330  ./examen 
+  331  make examen 
+  332  make examen 
+  333  ./examen 
+  334  make examen 
+  335  ./examen
+  336  make examen 
+  337  ./examen 
+  338  make examen 
+  339  ./examen 
+  340  make examen 
+  341  ./examen 
+  342  make examen 
+  343  ./examen 
+  344  make examen 
+  345  cd ..
+  346  cd repositorio
+  347  as
+  348  pwd
+  349  cd ..
+  350  cd repositorio
+  351  code examen
+  352  a
+  353  cd..
+  354  cd ..
+  355  mkdir repositorio
+  356  cd repositorio/
+  357  mkdir examen.c
+  358  cd
+  359  pwd
+  360  cd repositorio
+  361  pwd
+  362  cd ..
+  363  pwd
+  364  mkdir repositorio
+  365  cd repositorio
+  366  code examen.c
+  367  make examen 
+  368  ./examen 
+  369  pwd
+  370  cd ..
+  371  cd ..
+  372  mkdir Examen
+  373  code code.c
+  374  make code 
+  375  ./
+  376  ./code
+  377  make code 
+  378  ./code
+  379  make code 
+  380  ./code
+  381  git init 
+  382  git status
+  383  cd..
+  384  cd ..
+  385  cd repositorio
+  386  ls
+  387  cd workspaces/
+  388  ls
+  389  cd Examen
+  390  git init
+  391  git status
+  392  git status
+  393  git commit -m "Primer Commit"
+  394  git remote add origin https://github.com/0506victor4/Programacion_Examen.git
+  395  git commit -m "Primer Avance"
+  396  git push
+  397  git status
+  398  git status
+  399  make code.c
+  400  make code
+  401  ls
+  402  cd ..
+  403  ls
+  404  cd Examen
+  405  ls
+  406  make code.c
+  407  n
+  408  cd Examen
+  409  make code
+  410  make code.c
+  411  y
+  412  make code.c
+  413  make code
+  414  pwd
+  415  cd ..
+  416  mkdir repositorio
+  417  cd repositorio/
+  418  code examen.c
+  419  make examen 
+  420  ./examen 
+  421  make examen 
+  422  ./examen 
+  423  make examen 
+  424  ./examen 
+  425  5
+  426  make examen 
+  427  ./examen 
+  428  git init 
+  429  git statu
+  430  git status
+  431  git add.
+  432  git commit -m "Avance"
+  433  git add .
+  434  git status
+  435  git commit -m "Avance"
+  436  git remote add origin https://github.com/0506victor4/Examen.git
+  437  git push
+  438  git push -u origin main
+  439  history
+  440  history > comandotes.txt
+  441  git status
+  442  git add.
+  443  git add .
+  444  git status
+  445  git commit "Avance_Comandos"
+  446  git commit -m "Comandotes"
+  447  git push
+  448  pwd
+  449  pwd
+  450  cd ..
+  451  mkdir Tareas
+  452  cd Tareas
+  453  make 2strings.c
+  454  n
+  455  pwd
+  456  ls
+  457  make 2strings 
+  458  ./2strings 
+  459  make 2strings 
+  460  ./2strings 
+  461  code 19-sept
+  462  code 19_sept.c
+  463  code 25_sept.c
+  464  code tablas_verdad.txt
+  465  code 1_oct.c
+  466  make 1_oct
+  467  ./1_oct 
+  468  make 19_sept 
+  469  pwd
+  470  cd..
+  471  cd ..
+  472  ls
+  473  cd Tareas/
+  474  pwd
+  475  code cumple.txt
+  476  code jupyter.txt
+  477  code pagina_markdown
+  478  code pagina_markdown.md
+  479  make pagina_markdown
+  480  code hola_mundo_sin_librerias
+  481  code hola_mundo_slibrerias.c
+  482  make hola_mundo_slibrerias 
+  483   make hola_mundo_slibrerias 
+  484  ./hola_mundo_slibrerias 
+  485  code hola_mundo_clibrerias
+  486  code hola_mundo_clibrerias.c
+  487  make hola_mundo_clibrerias 
+  488  ./hola_mundo_
+  489  ./hola_mundo_clibrerias 
+  490  code 2strings_1mensaje
+  491  code 2strings_1mensaje.c
+  492  make 2strings_1mensaje 
+  493  ./2strings_1mensaje 
+  494  code tablas_verdad.txtr
+  495  code tablas_verdad.txt
+  496  code numero_mayor.c
+  497  make numero_mayor 
+  498  ./numero_mayor 
+  499  make numero_mayor 
+  500  ./numero_mayor 
+  501  code tabla_arreglos.c
+  502  make tabla_arreglos 
+  503  make tabla_arreglos 
+  504  ./tabla_arreglos 
+  505  code sumatoria1_1000.c
+  506  make sumatoria1_1000 
+  507  ./sumatoria1_1000 
+  508  code meow1.c
+  509  make meow1 
+  510  ./meow1 
+  511  make meow1 
+  512  ./meow1 
+  513  code meow2.c
+  514  make meow2
+  515  ./meow2
+  516  code meow3.c
+  517  make meow3
+  518  ./meow3
+  519  git init
+  520  git status
+  521  git add .
+  522  git remote add origin https://github.com/0506victor4/tareas_pendientes.git
+  523  git commit -m "Finalizacion"
+  524  git push
+  525  git push -u origin main
+  526  history
+  527  history>comandos.txt
